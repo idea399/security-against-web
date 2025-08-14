@@ -1,0 +1,65 @@
+----------Personal Details----------
+
+-Name:                        Zlatko
+-Surname:                     Ramadanovski
+-DOB:                         04.May.1997
+-Country:                     Serbia
+-City:                        Novi Sad
+-Zip:                         21000
+-Phone:                       +1 
+-Company name:                Yang Ren
+-Company Address:             Sarajevska 6
+-Company registration date:   23.May.2022
+-Company registration number: 74635201
+-Company TAX number:          283481867
+ 
+-----------ID Card Details----------
+
+Document no.:  010628366
+Personal no.:  0405997800052
+DOI:           02.Jul.2017
+DOE:           02.Jul.2027
+
+---------------Logins---------------
+ 
+Outlook:      yang.ren.ltd@outlook.com
+Password:     C2KF4UMum7CeD8D
+
+Incognition:  yang.ren.ltd@outlook.com
+Password:     4k3qr8KfDt2LnPw
+
+Payoneer:     yang.ren.ltd@outlook.com
+Password:     9chqv4TvnYCMWrA
+
+---------------Website--------------
+
+yang-ren-ltd.my.canva.site
+
+--------------- MAC address --------
+
+D281AFBA2C9C
+
+--------------Bank Info-------------
+
+IBAN:            RS35160600000587199734
+SWIFT:           DBDBRSBG
+Acc. no.:        160600000587199734
+Bank Name:       Banca Intesa
+Type of Account: Personal
+Account Country: Serbia
+
+----------Security Questions PY--------
+
+Q: What is your paternal grandmother's first name?
+A: Yang
+
+Q: What is the first name of your grandfather?
+A: Yang
+
+Q: What is the first name of the eldest of your cousins (from your father's side)?
+A: Yang
+
+Q: How old was your mother when you were born?
+A: 30
+
+
